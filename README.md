@@ -9,7 +9,8 @@ PURL: Periodic User Representation Learning
 
 ## Execution Order 
 
-The main module `PURL` is defined in `pure.py` and to run the experiment, please follow the order below:
+The main module `PURL` is defined in `pure.py`
+To run the experiment, please follow the order below:
 
 1. `Data Preparation for Health State Prediction.ipynb`
 2. `PURE Training for Health State Prediction.ipynb`
