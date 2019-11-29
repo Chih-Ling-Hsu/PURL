@@ -5,7 +5,7 @@ PURL: Periodic User Representation Learning
 ## Prerequisites
 
 - Download `spmf.jar` from [its open-source data mining mining library](http://www.philippe-fournier-viger.com/spmf/index.php?link=download.php) and place it in the folder `utils`
-- Use _P_ython2.7_ and install Python libraries: `scipy`, `joblib`, `pandas`, `contextlib`, `matplotlib`, `tqdm`, `numpy`, `pickle`, `scikit-learn`
+- Use _Python2.7_ and install Python libraries: `scipy`, `joblib`, `pandas`, `contextlib`, `matplotlib`, `tqdm`, `numpy`, `pickle`, `scikit-learn`
 
 ## Execution Order 
 
