@@ -1,0 +1,7 @@
+**/output
+**/input
+**/data
+**/saved
+*.pyc
+utils/spmf.jar
+.ipynb_checkpoints
